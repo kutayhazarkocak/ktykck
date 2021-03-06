@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Kutay</h1>
-<h3 align="center">A passionate Data Scientist & AI enthusiast</h3>
+<h3 align="center">A passionate Junior Data Scientist & AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktykck" alt="ktykck" /> </p>
 
-- 🌱 I’m currently learning **AWS, NLP, Spring Framework**
+- 🌱 I’m currently learning **AWS, Deep Learning, Time Series, Web Scraping, Matlab**
 
-- 💬 Ask me about **NLP, Time Series, Neural Networks, Regression & Classification & Clustering**
+- 💬 Ask me about **Data Enginerring & Data Pre-processing & Regression & Classification & Clustering**
 
 - :mortar_board: Education Istanbul Technical University - BSC. Industrial Engineering | 3rd Grade
 
